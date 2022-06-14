@@ -17,7 +17,6 @@ public class FileServiceImpl implements FileService {
     @Inject
     Logger logger;
 
-    private static final String FILEPATH = "/files/mp3/example.mp3";
     private static final List<String> FILES = List.of(
         "/files/mp3/example.mp3",
         "/files/mp3/example2.mp3",
