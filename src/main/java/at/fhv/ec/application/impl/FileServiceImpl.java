@@ -20,8 +20,7 @@ public class FileServiceImpl implements FileService {
     private static final List<String> FILES = List.of(
         "/files/mp3/example.mp3",
         "/files/mp3/example2.mp3",
-        "/files/mp3/example3.mp3",
-        "/files/mp3/example4.mp3"
+        "/files/mp3/example3.mp3"
     );
 
     @Override
